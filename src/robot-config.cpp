@@ -29,6 +29,7 @@ motor Motor18 = motor(PORT18, ratio18_1, false);
 motor Motor19 = motor(PORT19, ratio18_1, false);
 motor Motor20 = motor(PORT20, ratio18_1, false);
 motor Motor21 = motor(PORT21, ratio18_1, false);
+bumper BumperA = bumper(Brain.ThreeWirePort.A);
 
 // VEXcode generated functions
 

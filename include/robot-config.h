@@ -24,6 +24,7 @@ extern motor Motor18;
 extern motor Motor19;
 extern motor Motor20;
 extern motor Motor21;
+extern bumper BumperA;
 
 /**
  * Used to initialize code/tasks/devices added using tools in VEXcode Text.
